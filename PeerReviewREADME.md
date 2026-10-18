@@ -1,0 +1,6 @@
+
+Reviewer: Callen Thomason
+Review: Everything looks mostly okay on the computer side of the website. The Browse hours spacing is off, should be in the center of the Nav bar. Their is also no gap between the words. The book photos should be slightly smaller than the boxes they sit inside, and the boxes should be rounded. The font color is off on the author name, and the size should be smaller than the book title. The color is also incorrect on the price. The titles should also be semi-bolded. The button looks good and is in the right spot, but should also be rounded. Overall it is not too bad, and most of the goundwork is already laid out. Just some slight fixes need to be made for it to be more accurate.
+I would also consider placing your cards inside of a grid.  
+
+I know that your code is imcomplete and I do not want to be too harsh, but a lot of work needs to be done for your mobile screen. Once you finish up the main screen, you'll just need to go through and add `md` where it applies and add the rules for them mobile screen. 
